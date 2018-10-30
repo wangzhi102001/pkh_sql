@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pkh_sql", "pkh_sql\pkh_sql.pyproj", "{05E50C82-D65A-4BA2-978C-2078C75315DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E50C82-D65A-4BA2-978C-2078C75315DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E50C82-D65A-4BA2-978C-2078C75315DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6195AA30-31C7-439C-9FB6-9FED3680DA54}
+	EndGlobalSection
+EndGlobal
