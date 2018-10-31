@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>05e50c82-d65a-4ba2-978c-2078c75315de</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>pkh_sql.py</StartupFile>
+    <StartupFile>pinkunhu_type.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="pkh_sql.py" />
+    <Compile Include="exceltojson.py" />
+    <Compile Include="familyData.py" />
+    <Compile Include="fangfa.py" />
+    <Compile Include="personData.py" />
+    <Compile Include="pinkunhu_type.py" />
+    <Compile Include="setting.py" />
+    <Compile Include="sqlff.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
